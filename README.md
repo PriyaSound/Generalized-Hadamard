@@ -1,2 +1,0 @@
-Generalized-Hadamard
-====================
