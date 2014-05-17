@@ -1,4 +1,3 @@
-// This project is in it's infancy
 #include<iostream>
 using namespace std;
 
